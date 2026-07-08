@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm August 👋
 
-<!--
-**augustliuze/augustliuze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mathematics student at HKUST, following the Statistics Track.
 
-Here are some ideas to get you started:
+I’m still early in the journey, but I enjoy learning how math, statistics, and code can turn messy real-world problems into something clearer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+
+- Research Assistant on a DNN+HMM face recognition project
+- Learning Python, Java, Excel VBA, and statistical modeling
+
+## A Small Note
+
+-Nothing too fancy here. I'm just a student at HKUST, trying to learn a bit more every day.
+-If you have advice, ideas, or just want to say hi, I’d be happy to hear from you.
+-Thanks for stopping by. Good luck, keep learning, and don’t forget to enjoy the process.
